@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @ulilabzr
-- 👀 I’m interested in c++, backend
-- 🌱 I’m currently learning c++, python
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👀 I’m interested in data science
+- 🌱 I’m currently learning c++, python, and data science
+- 📫 How to reach me 
 
 <!---
 ulilabzr/ulilabzr is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
