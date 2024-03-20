@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ulilabzr
 - 👀 I’m interested in data science
-- 🌱 I’m currently learning c++, python, and data science
+- 🌱 I’m currently learning c++, python, Data Analytics and Machine Learning
 - 📫 How to reach me 
 
 <!---
