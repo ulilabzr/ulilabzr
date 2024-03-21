@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @ulilabzr
 - 👀 I’m interested in data science
 - 🌱 I’m currently learning c++, python, Data Analytics and Machine Learning
-- 📫 How to reach me 
+- 📫 absoruu@gmail.com
 
 <!---
 ulilabzr/ulilabzr is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
