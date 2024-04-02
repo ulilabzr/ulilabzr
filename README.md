@@ -1,4 +1,4 @@
-<h1 align="center" class="heading-element" dir="auto">Hi 👋, I'm Ulil Absor</h1>
+<h1 align="center" class="heading-element" dir="auto">Holla Fellas!🙌🏻 I'm Ulil Absor</h1>
 
 <h3 align="center" class="heading-element" dir="auto">🌐 SOSCIAL MEDIA</h3>
 
