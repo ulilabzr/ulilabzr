@@ -1,6 +1,4 @@
 <h1 align="center" class="heading-element" dir="auto">Holla Fellas!🙌🏻 I'm Ulil Absor</h1>
-" jare mamakku rapopo elek sek penting ora seneng nyembik uwong arep lingguh "
--ulil
 
 <h3 align="center" class="heading-element" dir="auto">🌐 SOCIAL MEDIA</h3>
 
