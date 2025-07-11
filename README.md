@@ -2,8 +2,7 @@
 
 <h1 align="center" class="heading-element" dir="auto">About Me</h1>
 
-<p>I’m Ulil Absor, a Data Science and ML enthusiast who loves turning messy data into clear, actionable insights. With a strong eye for detail and a passion for continuous learning, I enjoy optimizing workflows, cleaning complex datasets, and making data more understandable for teams and decision-makers — because data should drive action, not confusion.
-</p>
+
 # 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/ulilabzr_/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/ulilabzr11/) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@https://medium.com/@absoruu) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:absoruu@gmail.com) 
 
