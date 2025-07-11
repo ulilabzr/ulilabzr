@@ -13,14 +13,5 @@
 ![Adobe Lightroom](https://img.shields.io/badge/Adobe%20Lightroom-31A8FF.svg?style=for-the-badge&logo=Adobe%20Lightroom&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Adobe Illustrator](https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=for-the-badge&logo=adobe%20illustrator&logoColor=white)  ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white)
 
 <h3 align="center" class="heading-element" dir="auto">📊 GitHub Stats</h3>
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=ulilabzr&theme=darcula&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
-<h4 align="center" class="heading-element" dir="auto">🏆 GitHub Trophies</h4>
-
-![](https://github-profile-trophy.vercel.app/?username=ulilabzr&theme=chalk&no-frame=false&no-bg=false&margin-w=4)
-
----
-[![](https://visitcount.itsvg.in/api?id=ulilabzr&icon=5&color=2)](https://visitcount.itsvg.in)
-
+<img align="center" alt="Static Badge" src="[https://img.shields.io/badge/:badgeContent](https://github-readme-stats.vercel.app/api/top-langs/?username=ulilabzr&theme=darcula&hide_border=false&include_all_commits=false&count_private=false&layout=compact)">
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
