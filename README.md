@@ -1,3 +1,5 @@
+<img width="1548" height="387" alt="Frame 1000005891" src="https://github.com/user-attachments/assets/37b027a1-c50c-4f92-855c-b4c3122ce3c4" />
+
 <h1 align="center" class="heading-element" dir="auto">About Me</h1>
  
 # 🌐 Socials:
