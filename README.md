@@ -1,4 +1,4 @@
-<h1 align="center" class="heading-element" dir="auto">Holla Fellas!🙌🏻 I'm Ulil Absor</h1>
+<h1 align="center" class="heading-element" dir="auto">About Me</h1>
  
 # 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/ulilabzr_/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/ulilabzr11/) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@https://medium.com/@absoruu) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:absoruu@gmail.com) 
