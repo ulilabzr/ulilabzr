@@ -1,6 +1,6 @@
 <img width="1548" height="387" alt="Frame 1000005891" src="https://github.com/user-attachments/assets/37b027a1-c50c-4f92-855c-b4c3122ce3c4" />
 
-<h1 align="center" class="heading-element" dir="auto">About Me</h1>
+<h1 align="center" class="heading-element" dir="auto"> 🧠 About Me</h1>
 
 <p align="center" >I’m Ulil Absor, a Data Science and ML enthusiast who loves turning messy data into clear, actionable insights. With a strong eye for detail and a passion for continuous learning, I enjoy optimizing workflows, cleaning complex datasets, and making data more understandable for teams and decision-makers — because data should drive action, not confusion.
 </p>
